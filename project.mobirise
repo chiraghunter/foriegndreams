@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Foriegn Dreams",
-    "currentPage": "Contact Us.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
